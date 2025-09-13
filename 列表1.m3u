@@ -1,7 +1,4 @@
-#EXTM3U url-tvg="https://live.kilvn.com/epg.xml"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://v33.pl10000.top
+#EXTM3U x-tvg-url="https://live.kilvn.com/epg.xml""
 
 #EXTINF:-1 tvg-name="更新0913/9:45" tvg-logo="https://live.fanmingming.cn/tv/更新0913/9:45.png" group-title="央视官源",更新0913/9:45
 http://mobi.kuwo.cn/tmevideo/tme1257678.mp4
